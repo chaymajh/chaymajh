@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chaymajh
+- 👀 I’m interested in Embedded systems, IOT, and AI
+- 🌱 I’m currently learning Artificial Intelligence
+- 💞️ I’m looking to collaborate on Data Science projects
+- 📫 How to reach me throught my E-mail : jhinaouichaymaa@gmail.com
